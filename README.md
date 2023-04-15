@@ -11,6 +11,14 @@ Predict the Price of laptop on the basis of Context A dataset for 1300 laptop mo
 
 ![Screenshot (3184)](https://user-images.githubusercontent.com/130654681/232124593-7dacb84c-8842-4a3a-a371-4d98e4b91244.png)
 
+# Mobile Version :
+
+
+
+https://user-images.githubusercontent.com/130654681/232184771-a270ebb8-234b-469d-8565-753de0549891.mp4
+
+
+
 ## Any Query ? Ping me
 👉 **https://t.me/i_am_din3sh**
 
