@@ -26,27 +26,33 @@ It is a Regresion problem, for a given columns we need to predict the price of l
 # Display
 
 ## Introduction display
-![Screenshot (3302)](https://github.com/i-am-dinesh/Laptop_Price_Prediction_System/assets/130654681/37858207-1aed-4811-a482-391d48fc59e2)
+![Screenshot (3302)](https://github.com/i-am-dinesh/Laptop_Price_Prediction_Project/assets/130654681/aace667e-d8b9-44b5-8ee0-b50e79ca1ee8)
+
 
 ## Prediction display
-![Screenshot (3303)](https://github.com/i-am-dinesh/Laptop_Price_Prediction_System/assets/130654681/5b3a4a64-facb-4dcd-a586-8dec05ac0c6f)
+![Screenshot (3303)](https://github.com/i-am-dinesh/Laptop_Price_Prediction_Project/assets/130654681/0f040ddb-9421-45d1-ad82-26d5e2931235)
+
 
 ## Github display
-![Screenshot (3304)](https://github.com/i-am-dinesh/Laptop_Price_Prediction_System/assets/130654681/44ebab59-1d91-4132-99fc-e9585499765a)
+
+![Screenshot (3304)](https://github.com/i-am-dinesh/Laptop_Price_Prediction_Project/assets/130654681/ac86bfe2-3ddd-4561-92f8-6fc04eed500f)
 
 # Results Comparision
 # Amazon Price
-![Screenshot (3305)](https://github.com/i-am-dinesh/Laptop_Price_Prediction_System/assets/130654681/9f20474e-16b2-424d-bcd4-5eac658816eb)
+![Screenshot (3305)](https://github.com/i-am-dinesh/Laptop_Price_Prediction_Project/assets/130654681/ffba68fc-a444-4cc6-9488-28a0cc32016b)
+
 
 
 # Predicted Price
 
-![Screenshot (3306)](https://github.com/i-am-dinesh/Laptop_Price_Prediction_System/assets/130654681/5c017807-e029-4e67-8e42-eb1f5dde4dc0)
+
+![Screenshot (3306)](https://github.com/i-am-dinesh/Laptop_Price_Prediction_Project/assets/130654681/7c7e3496-19be-4a88-beaf-675e7b90ba01)
 
 # Mobile Version :
 
 
-https://github.com/i-am-dinesh/Laptop_Price_Prediction_System/assets/130654681/c43b70da-2970-44ff-9197-9b0ac35237de
+https://github.com/i-am-dinesh/Laptop_Price_Prediction_Project/assets/130654681/8cbe0120-87bf-45ed-8921-b3c24fccd57f
+
 
 
 ## Any Query ? Ping me. 👇
